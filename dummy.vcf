@@ -1,0 +1,78 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:John Doe
+N:Doe;John;;;
+TEL;CELL:555-1000
+TEL;HOME:555-1001
+EMAIL:john.doe@example.com
+ORG:Example Corp
+TITLE:Manager
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Jane Smith
+N:Smith;Jane;;;
+TEL;CELL:555-1002
+TEL;HOME:555-1003
+ADR;HOME:;;123 Elm St;Faketown;FS;12345;USA
+EMAIL:jane.smith@example.com
+ORG:XYZ Associates
+TITLE:Developer
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Emily Johnson
+N:Johnson;Emily;;;
+TEL;CELL:555-1004
+TEL;HOME:555-1005
+ADR;HOME:;;456 Oak St;Faketown;FS;67890;USA
+EMAIL:emily.j@example.com
+ORG:Tech Innovators
+TITLE:Product Manager
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Michael Brown
+N:Brown;Michael;;;
+TEL;CELL:555-1006
+TEL;HOME:555-1007
+ADR;HOME:;;789 Maple St;Faketown;FS;01234;USA
+EMAIL:michael.b@example.com
+ORG:Web Creators
+TITLE:Web Designer
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Sarah Wilson
+N:Wilson;Sarah;;;
+TEL;CELL:555-1008
+EMAIL:sarah.w@example.com
+ORG:Market Leaders
+TITLE:Marketing Specialist
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Chris Taylor
+N:Taylor;Chris;;;
+TEL;CELL:555-1009
+TEL;HOME:555-1010
+EMAIL:chris.t@example.com
+ORG:Design Masters
+TITLE:Graphic Designer
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Linda White
+N:White;Linda;;;
+TEL;CELL:555-1011
+ADR;HOME:;;234 Pine St;Faketown;FS;34567;USA
+EMAIL:linda.w@example.com
+ORG:Health Pioneers
+TITLE:Nurse
+END:VCARD
