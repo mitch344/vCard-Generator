@@ -2,7 +2,7 @@
 
 A simple and user-friendly application to manage and create vCards using a graphical user interface (GUI). Built with Tkinter, this application allows for easy management of contact information such as names, phone numbers, addresses, emails, and professional details.
 
-<img src="https://raw.githubusercontent.com/MitchellKopczyk/vCard-Generator/main/image.png"/>
+<img src="https://raw.githubusercontent.com/MitchellKopczyk/vCard-Generator/b5e5ddbf1da65b5e683cde621ead12ab7aa4c9bd/image.png"/>
 <div style="display: flex; justify-content: space-between; padding: 10px;">
     <img src="image2.png" alt="Image 2" width="300" height="700" style="max-width: 48%;" />
     <img src="image3.png" alt="Image 3" width="300" height="700" style="max-width: 48%;" />
